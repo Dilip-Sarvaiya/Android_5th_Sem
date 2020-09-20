@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Tutorial-05</string>
+    <string name="login_name">Login</string>
+    <string name="user_name">Username</string>
+    <string name="Password">Password</string>
+    <string name="welcome_name">Welcome</string>
+
+
+    <string-array name="city">
+        <item>Select One</item>
+        <item>Junagadh</item>
+        <item>Rajkot</item>
+        <item>Ahmedabad</item>
+        <item>Baroda</item>
+        <item>Surat</item>
+    </string-array>
+</resources>
