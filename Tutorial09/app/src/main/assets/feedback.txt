@@ -1,0 +1,26 @@
+To evaluate the Code and check wheather it is working or not
+
+Yes beacause it Compiles our code in that files
+
+That shows how our UI looks like in Phone for our calculator application
+
+Add functionality will work by calling method which calculate the addition of two numbers
+taken by the user
+
+Subtract functionality will work by calling method which calculate the Subtraction of two numbers
+taken by the user 
+
+Division functionality will work by calling method which calculate the Division of two numbers
+taken by the user
+
+Because it performs Various operations by Change the Operation which you want to perform in listview
+
+To use better OOP approach
+
+To identify What we have done in code that's why we are including comments
+
+For better organization of our huge code
+
+To perform arithmetic operations and Classes are used for creating method with in it
+
+
