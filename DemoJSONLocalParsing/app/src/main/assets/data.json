@@ -1,0 +1,28 @@
+{
+  "formulas": [
+    {
+      "formula" : "Github",
+      "url":  "https://github.com/Dilip-Sarvaiya"
+    },
+    {
+      "formula" : "Personal Website",
+      "url":  "http://dilipsarvaiya.epizy.com/"
+    },
+    {
+      "formula" : "Google",
+      "url":  "https://www.google.com/"
+    },
+    {
+      "formula": "Android Works",
+      "url": "https://github.com/Dilip-Sarvaiya/Android_5th_Sem"
+    },
+    {
+      "formula" : "PHP Works",
+      "url":  "http://dilipsarvaiya.epizy.com/tutorials/index.html"
+    },
+    {
+      "formula" : "Mobile",
+      "url":  "8905455955"
+    }
+  ]
+}
