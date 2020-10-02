@@ -56,6 +56,8 @@ public class MainActivity extends AppCompatActivity {
         protected void onPreExecute() {
             super.onPreExecute();
             dialog=new ProgressDialog(MainActivity.this);
+            dialog.setTitle("Welcome");
+            dialog.setMessage("Fetching Data..");
             dialog.show();
         }
 
